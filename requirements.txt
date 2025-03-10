@@ -1,0 +1,31 @@
+# Core dependencies
+ag2==0.7.5
+openai==1.64.0  # https://openai.com/
+
+# Database and GraphRAG
+graphrag-sdk==0.6.1  # https://graphrag.com/
+falkordb==1.0.10  # https://falkordb.com/
+redis==5.2.1  # https://redis.io/
+
+# Tool integration
+langchain==0.3.20  # https://www.langchain.com/
+langchain-community==0.3.19  # https://www.langchain.com/
+crewai-tools==0.0.1  # https://www.crewai.com/
+pydantic==2.10.6  # https://docs.pydantic.dev/
+
+# Memory
+mem0ai==0.1.66  # https://mem0.ai/
+
+# Web and API tools
+playwright==1.50.0  # https://playwright.dev/
+requests==2.32.3  # https://requests.readthedocs.io/
+
+# Browser automation
+selenium==4.29.0  # https://www.selenium.dev/
+
+# Utilities
+nest-asyncio==1.6.0  # https://github.com/erdewit/nest_asyncio
+python-dotenv==1.0.1  # https://github.com/theskumar/python-dotenv
+
+# For Docker support (optional)
+docker==7.1.0  # https://www.docker.com/
